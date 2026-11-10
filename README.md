@@ -29,6 +29,6 @@ Every file comes as SVG and PNG, in [`logos/`](logos).
 - Use the files as they are: don't stretch, crop, recolor, or add shadows or effects.
 - Leave space around the logo, and don't put it on a busy photo.
 
-Questions, or need a different format? Email rulebook.tech@gmail.com.
+Questions, or need a different format? Email hello@rulebook.tech.
 
 © Rulebook. The logo and name may be used to refer to Rulebook, following the rules above.
